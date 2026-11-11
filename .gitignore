@@ -1,0 +1,17 @@
+# binaries / build artifacts
+bin/
+*.exe
+
+# env / secrets
+.env
+.env.*
+
+# test / coverage artifacts
+*.out
+coverage.html
+
+# editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
